@@ -11,7 +11,7 @@ The pipeline should be run as follows:
 
 ## 1) runBusco.job
 
-Run BUSCO software on selected genomes, using BUSCO v5.4.3 the Eurotiales odb10 database. This will identify all universal orthologs within the genome.
+Run BUSCO software on selected genomes, using BUSCO v5.4.3 the Mucorales odb10 database. This will identify all universal orthologs within the genome.
 
 
 

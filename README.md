@@ -23,7 +23,7 @@ Concatenates ID's of all complete orthologs across all strains and identifies th
 
 ## 3) alignCore.job
 
-Concatenate core-orthologs across strains. SeqKit v2.0.0 was used to linearse sequences prior to appendage. Sequences of core-orthologs underwent multiple sequence alignment using MUSCLE v3.8.1551.
+Concatenate core-orthologs across strains. SeqKit v2.0.0 was used to linearse sequences prior to appendage. Sequences of core-orthologs underwent multiple sequence alignment using MUSCLE v3.8.1551. Alignments were then organised using SAMtools v1.4
 
 
 
@@ -42,3 +42,5 @@ Seqkit: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.016396
 Muscle: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113
 
 RAxML: https://academic.oup.com/bioinformatics/article/30/9/1312/238053
+
+SAMtools: https://academic.oup.com/gigascience/article/10/2/giab008/6137722?login=true

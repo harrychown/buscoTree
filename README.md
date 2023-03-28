@@ -33,6 +33,11 @@ Paste together alignments for each gene across all species and generate a tree f
 
 
 
+## Visualise tree
+
+With your new tree, it's time to visualise it! There are many tools available for this, my personal preference is iTOL: https://itol.embl.de/#
+
+
 References
 
 Busco: https://academic.oup.com/bioinformatics/article/31/19/3210/211866

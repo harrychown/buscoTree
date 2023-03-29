@@ -37,6 +37,12 @@ Paste together alignments for each gene across all species and generate a tree f
 
 With your new tree, it's time to visualise it! There are many tools available for this, my personal preference is iTOL: https://itol.embl.de/#
 
+## Pairwise identity matrix
+
+mat <- bio3d::seqidentity(bio3d::read.fasta("/home/harry/Desktop/thomas_mucor/phylogeny/all_core.aln.fasta"))
+write.csv(mat, "/home/harry/Desktop/thomas_mucor/phylogeny/pid_matrix.csv")
+
+
 
 References
 
